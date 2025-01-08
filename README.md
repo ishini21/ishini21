@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishini Shavindhya</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Passionate Software Engineering Student | Building, Learning, and Innovating 🚀</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishini21&label=Profile%20views&color=0e75b6&style=flat" alt="ishini21" /> </p>
 
