@@ -5,11 +5,18 @@ Backend Developer | Software Engineering Undergraduate @ SLIIT | Aspiring DevOps
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, RESTful APIs, cloud-native applications, and modern DevOps workflows.
+Passionate about building scalable backend systems, RESTful APIs, cloud native applications, and modern DevOps workflows.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishini21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishini21&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -21,7 +28,7 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
 - ☁️ Currently learning **Docker, CI/CD, AWS & Kubernetes**
 - 🔧 Interested in **DevOps Engineering & Cloud Infrastructure**
 - 📚 Strong interest in scalable system design and API development
-- 🌱 Continuously improving through projects and hands-on learning
+- 🌱 Continuously improving through projects and handson learning
 
 ---
 
@@ -54,13 +61,6 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishini21&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
