@@ -9,16 +9,10 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
 </p>
 
 ---
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishini21&show_icons=true&theme=tokyonight" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishini21&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishini21&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishini21&theme=algolia&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -61,10 +55,19 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode,postman" />
 </p>
 
-## 🏆 GitHub Achievements
+---
+
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishini21&theme=algolia&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishini21&show_icons=true&theme=tokyonight" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishini21&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishini21&theme=tokyonight" />
 </p>
 
 ---
