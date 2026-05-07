@@ -5,7 +5,7 @@ Backend Developer | Software Engineering Undergraduate @ SLIIT | Aspiring DevOps
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, RESTful APIs, cloud-native applications, and modern DevOps workflows.
+Passionate about building scalable backend systems, RESTful APIs, cloud native applications, and modern DevOps workflows.
 </p>
 
 ---
@@ -24,7 +24,7 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
 - ☁️ Currently learning **Docker, CI/CD, AWS & Kubernetes**
 - 🔧 Interested in **DevOps Engineering & Cloud Infrastructure**
 - 📚 Strong interest in scalable system design and API development
-- 🌱 Continuously improving through projects and hands-on learning
+- 🌱 Continuously improving through projects and handson learning
 
 ---
 
