@@ -9,6 +9,19 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishini21&show_icons=true&theme=tokyonight" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishini21&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishini21&theme=tokyonight" />
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -48,45 +61,6 @@ Passionate about building scalable backend systems, RESTful APIs, cloud-native a
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode,postman" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🍽️ Cloud-Native Food Delivery Platform
-Microservices-based food ordering and delivery system built with MERN stack, Docker, and Kubernetes.
-
-**Tech:** React, Node.js, Express, MongoDB, Docker, Kubernetes
-
----
-
-### 💰 Personal Finance Tracker API
-Secure RESTful API with JWT authentication, RBAC, recurring transactions, budget alerts, and analytics.
-
-**Tech:** Node.js, Express.js, MongoDB
-
----
-
-### ✅ Task Management Application
-Responsive full-stack TODO application with filtering, priorities, and dynamic updates.
-
-**Tech:** React, Tailwind CSS, Node.js, Express, MySQL
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishini21&show_icons=true&theme=tokyonight" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishini21&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishini21&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -110,29 +84,6 @@ Responsive full-stack TODO application with filtering, priorities, and dynamic u
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
-
----
-
-## 🎯 Career Focus
-
-```yaml
-Backend Development:
-  - .NET
-  - NestJS
-  - Node.js
-  - REST APIs
-
-DevOps:
-  - Docker
-  - CI/CD
-  - AWS
-  - Kubernetes
-
-Currently Learning:
-  - Terraform
-  - GitHub Actions
-  - Cloud Deployment
-```
 
 ---
 
