@@ -5,14 +5,11 @@ Backend Developer | Software Engineering Undergraduate @ SLIIT | Aspiring DevOps
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, RESTful APIs, cloud native applications, and modern DevOps workflows.
+Passionate about building scalable backend systems, RESTful APIs, cloud-native applications, and modern DevOps workflows.
 </p>
 
----
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishini21&theme=algolia&margin-w=10&margin-h=10" />
+  <img src="https://komarev.com/ghpvc/?username=ishini21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -24,7 +21,7 @@ Passionate about building scalable backend systems, RESTful APIs, cloud native a
 - ☁️ Currently learning **Docker, CI/CD, AWS & Kubernetes**
 - 🔧 Interested in **DevOps Engineering & Cloud Infrastructure**
 - 📚 Strong interest in scalable system design and API development
-- 🌱 Continuously improving through projects and handson learning
+- 🌱 Continuously improving through projects and hands-on learning
 
 ---
 
@@ -57,9 +54,21 @@ Passionate about building scalable backend systems, RESTful APIs, cloud native a
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishini21&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishini21&show_icons=true&locale=en&layout=compact" alt="ishini21" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishini21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
@@ -72,9 +81,6 @@ Passionate about building scalable backend systems, RESTful APIs, cloud native a
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/ishini21" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
 </p>
 
 ---
