@@ -59,9 +59,7 @@ Passionate about building scalable backend systems, RESTful APIs, cloud native a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishini21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishini21&show_icons=true&locale=en&layout=compact" alt="ishini21" /></p>
 
 ## 📫 Connect With Me
 
